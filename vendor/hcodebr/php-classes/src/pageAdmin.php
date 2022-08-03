@@ -1,5 +1,5 @@
 <?php
-//namespace Ecommerce;
+//namespace Hcode;
 
 use Rain\Tpl;
 
