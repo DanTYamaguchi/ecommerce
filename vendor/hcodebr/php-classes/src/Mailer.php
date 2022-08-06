@@ -9,8 +9,8 @@ use \PHPMailer\PHPMailer\SMTP;
 class Mailer {
 
 
-    const USERNAME = "dan.yama@outlook.com";
-    const PASSWORD = "Yoshi1985Yama";
+    const USERNAME = ""; //EMAIL REMETENTE
+    const PASSWORD = ""; //SENHA REMETENTE
     const NAME_FROM = "Hcode Store";
 
     private $mail;
